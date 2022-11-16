@@ -1,0 +1,7 @@
+@import 'variables';
+@import '~bootstrap/css/bootstrap';
+
+h2 {
+    color: red;
+    font-size: large;
+}
